@@ -1,4 +1,4 @@
-###Project 1: Multiplication Quiz Project
+### Project 1: Multiplication Quiz Project
 **Summary**: This program quizzes the user on their multiplication skills.
 **Key Features**: 
 - Displays score at the end of the quiz
