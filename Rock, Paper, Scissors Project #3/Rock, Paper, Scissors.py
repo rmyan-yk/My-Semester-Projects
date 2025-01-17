@@ -28,7 +28,7 @@ while True:
         computer = "scissors"
         print("Computer chose scissors")
 
-#Determine outcome
+#Determine outcome based on player and computer response
 #Display the score (e.g., Player: 3 / Computer: 6) after each round, updating it accordingly.
     if player == "rock" and computer == "rock":
         print("Tie")
