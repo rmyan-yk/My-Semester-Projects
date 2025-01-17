@@ -1,8 +1,10 @@
-#Multiplication Quiz Project
+### Project 1: Multiplication Quiz Project
+#**Summary**: This program quizzes the user on their multiplication skills.
+#**Key Features**: 
+    #Displays score at the end of the quiz
+    #Allows users to choose the number of questions to answer
+    #Uses random library to generate numbers between 1-12
 
-#Objective: Create a program that quizzes the user on multiplication problems. After the quiz, display the user's score.
-
-#Steps to Implement:
 #Innit
 #Use the random library to generate a random multiplication problem and allow the user to answer it.
 import random
